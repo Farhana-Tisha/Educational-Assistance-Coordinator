@@ -1,1 +1,3 @@
 # Educational-Assistance-Coordinator
+
+This C code implements a system for managing student-teacher interactions in an educational environment, utilizing pthreads and semaphores for multi-threading and synchronization. The program simulates a scenario where students seek help from teachers based on their priority and burst time requirements. The system dynamically arranges students needing help based on priority, simulating a waiting area limited by the number of available chairs. Coordinators oversee the process, ensuring efficient allocation of teachers to students needing assistance. Through its implementation of multi-threading and synchronization techniques, the program provides a practical simulation of student-teacher interactions in an educational setting.
